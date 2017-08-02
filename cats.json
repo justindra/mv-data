@@ -23,6 +23,11 @@
 		{
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat"
+		},
+		{
+			"photo": "https://cdn.rawgit.com/justindra/mv-data/d96aeb78778590983892de97ef99b0db073cf037/images/15017177500321459355773.jpg",
+			"name": "Hello\nVcn",
+			"age": "Gcjgxdvb"
 		}
 	]
 }
